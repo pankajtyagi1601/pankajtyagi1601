@@ -76,8 +76,8 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thegoofy-dev&show_icons=true&theme=midnight-purple&hide_border=false)](https://github.com/thegoofy-dev)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thegoofy-dev&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajtyagi1601&show_icons=true&theme=midnight-purple&hide_border=false)](https://github.com/pankajtyagi1601)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pankajtyagi1601&theme=midnight-purple)](https://git.io/streak-stats)
 
 </div>
 
