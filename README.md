@@ -15,10 +15,10 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Anjani Beauties**](https://anjani-beauties.vercel.app) | Freelance client site — bridal salon with inquiry pipeline & booking system | Next.js, Prisma, PostgreSQL, Docker |
+| [**Anjani Beauties**](https://anjanibeauties.online) | Freelance client site — bridal salon with inquiry pipeline & booking system | Next.js, Prisma, PostgreSQL, Docker |
 | [**CV Security**](https://cv-security.vercel.app) | Real-time face recognition access control — ~30fps, multi-camera, live dashboard | Python, OpenCV, dlib, Flask, Redis, Next.js |
-| [**Brain Notes AI**](https://brain-notes-ai.vercel.app) | RAG-powered notes app — AI answers questions from *your own* notes | Next.js, Convex, Vercel AI SDK, OpenRouter |
-| [**Fin Morph AI**](https://fin-morph-ai.vercel.app) | Finance tracker with receipt OCR — cuts manual data entry by 50% | Next.js, Clerk, PostgreSQL |
+| [**Brain Notes AI**](https://brainic-ai.vercel.app) | RAG-powered notes app — AI answers questions from *your own* notes | Next.js, Convex, Vercel AI SDK, OpenRouter |
+| [**Fin Morph AI**](https://finmorph.vercel.app) | Finance tracker with receipt OCR — cuts manual data entry by 50% | Next.js, Clerk, PostgreSQL |
 
 ---
 
