@@ -48,7 +48,7 @@
 
 <div align="center">
   
-<a href="https://app.daily.dev/goofy_guy"><img src="https://api.daily.dev/devcards/v2/dLZFgTpZ1LsHsVHSaKXUJ.png?type=wide&r=kt9" width="652" alt="Pankaj Tyagi's Dev Card"/></a>
+<a href="https://app.daily.dev/goofy_guy"><img src="https://api.daily.dev/devcards/v2/dLZFgTpZ1LsHsVHSaKXUJ.png?r=4853&theme=nightowl" width="652" alt="Pankaj Tyagi's Dev Card"/></a>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajtyagi1601&show_icons=true&theme=midnight-purple&hide_border=false)](https://github.com/pankajtyagi1601)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pankajtyagi1601&theme=midnight-purple)](https://git.io/streak-stats)
   
