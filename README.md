@@ -1,97 +1,65 @@
 <div align="center">
-  
+
 # ✨ Pankaj Tyagi ✨
 
-### Full Stack Developer & Tech Enthusiast
-
-
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-9745F5?style=for-the-badge&logo=firefox&logoColor=white)](https://thegoofy-guy.is-a.dev)
-[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thegoofyy_guy)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-201E43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thegoofy-dev)
-[![Email Badge](https://img.shields.io/badge/Gmail-092B9C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajtyagi1601@gmail.com)
+### 
+**Full-Stack Developer & Tech Enthusiast** based in Delhi, India — I build things that actually ship.
+<br/>From real-time computer vision pipelines to freelance client sites, I like owning a problem end-to-end and getting it live.
+<br/> Currently open to <strong> MERN / Full-Stack roles </strong> at startups and product companies.
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🏆 What kind of Projects I've built so far
 
-- 💻 **Full-stack developer** passionate about building efficient solutions
-- 🧠 **Continuous learner** exploring new technologies weekly
-- 🎯 **2024 Focus:** Mastering Next.js and cloud architectures
-- ✨ **Hobby:** I love to play **PC Games** & watch **Animes** in my free time.
-
-**Tech Stack:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/-Nodemailer-339933?logo=mail.ru&logoColor=white)
-![EmailJS](https://img.shields.io/badge/-EmailJS-CF2C84?logo=gmail&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [**Anjani Beauties**](https://anjani-beauties.vercel.app) | Freelance client site — bridal salon with inquiry pipeline & booking system | Next.js, Prisma, PostgreSQL, Docker |
+| [**CV Security**](https://cv-security.vercel.app) | Real-time face recognition access control — ~30fps, multi-camera, live dashboard | Python, OpenCV, dlib, Flask, Redis, Next.js |
+| [**Brain Notes AI**](https://brain-notes-ai.vercel.app) | RAG-powered notes app — AI answers questions from *your own* notes | Next.js, Convex, Vercel AI SDK, OpenRouter |
+| [**Fin Morph AI**](https://fin-morph-ai.vercel.app) | Finance tracker with receipt OCR — cuts manual data entry by 50% | Next.js, Clerk, PostgreSQL |
 
 ---
 
-## 🏆 Featured Projects
+## 🛠️ My Stack
 
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
-<a href="https://app.daily.dev/goofy_guy" align="right">
-  <img 
-    src="https://api.daily.dev/devcards/v2/dLZFgTpZ1LsHsVHSaKXUJ.png?r=30992&theme=nightowl" 
-    width="340"
-    alt="Pankaj Tyagi's Dev Card"
-    align="right"
-    style="border-radius: 12px; border: 2px solid #7B2CBF; box-shadow: 0 8px 24px rgba(123,44,191,0.3); margin: 0 0 20px 20px;"
-  />
-</a>
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
 
-
-
-### 1. College Query Chatbot
-[![Live](https://img.shields.io/badge/Live-5A189A?style=for-the-badge&logo=firefox&logoColor=white)](http://collegechatbot.tiiny.site/)
-[![Repo](https://img.shields.io/badge/GitHub-092B9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thegoofy-dev/College-chatbot)
-- AI-powered chatbot for answering college-related queries
-- Built with Node.js, Express, and natural language processing
-- Reduces administrative workload by 40% for common questions
-
-### 2. MERN Stack Chat Application
-[![Live](https://img.shields.io/badge/Live-5A189A?style=for-the-badge&logo=firefox&logoColor=white)](https://igluz-chatapp.onrender.com/)
-[![Repo](https://img.shields.io/badge/GitHub-092B9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thegoofy-dev/MERN-ChatApp)
-- Real-time messaging application with user authentication
-- Features: Online status, message history, typing indicators
-- Technologies: MongoDB, Express, React, Node.js (MERN)
-
-### 3. Portfolio Website
-[![Live](https://img.shields.io/badge/Live-5A189A?style=for-the-badge&logo=firefox&logoColor=white)](https://thegoofy-guy.is-a.dev/)
-[![Repo](https://img.shields.io/badge/GitHub-092B9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thegoofy-dev/personal-portfolio)
-- Modern personal portfolio built with Next.js
-- Includes project showcase, skills section, and contact form
-- Optimized for performance and SEO
+**Database & DevOps**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white&style=flat-square)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub & DailyDev Stats
 
 <div align="center">
   
+<a href="https://app.daily.dev/goofy_guy"><img src="https://api.daily.dev/devcards/v2/dLZFgTpZ1LsHsVHSaKXUJ.png?type=wide&r=kt9" width="652" alt="Pankaj Tyagi's Dev Card"/></a>
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pankajtyagi1601&show_icons=true&theme=midnight-purple&hide_border=false)](https://github.com/pankajtyagi1601)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=pankajtyagi1601&theme=midnight-purple)](https://git.io/streak-stats)
+  
 
 </div>
 
----
+## 📬 Let's Connect
 
-## 📈 Weekly Development Breakdown
+I'm always happy to talk code, projects, or opportunities.
 
-```text
-🌐 Web Development: ███████████████████ 85% 
-🤖 AI/NLP:          ██████████ 45% 
-📱 Real-time Apps:  ████████████ 60% 
-✉️ Email Systems:   ███████ 35%
-```
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-9745F5?style=for-the-badge&logo=firefox&logoColor=white)](https://pankajtyagi-portfolio.vercel.app)
+[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thegoofyy_guy)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-201E43?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajtyagi1601)
+[![Email Badge](https://img.shields.io/badge/Gmail-092B9C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pankajtyagi1601@gmail.com)
